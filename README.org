@@ -5,6 +5,15 @@ Es es un ejemplo de descripción para mi primer proyecto en git.Seguro contendr�
 
 * ¿Como compilar el proyecto?
 
+#+begin_src sh
+mvn clean install
+#+end_src
+
+#+begin_src java
+public void main(String args[]){
+	System.out,println("Holi");
+}
+#+end_src
 
 ** Como configurar la base de datos para que compile el proyecto
 ** ¿Qué dependencias son necesarias?
