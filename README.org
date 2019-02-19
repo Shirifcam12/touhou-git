@@ -1,0 +1,9 @@
+#+tittle: Mi proyecto
+#+author: Ricardo Badillo
+#+date: [2019-02-19 dom 19:36]
+Es es un ejemplo de descripción para mi primer proyecto en git.Seguro contendrá el modo de uso y un proyecto en maven.
+*¿Como compilar el proyecto?
+**Como configurar la base de datos para que compile el proyecto
+**¿Qué dependencias son necesarias?
+*Estilo de codificación
+*Gotchas
